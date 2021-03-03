@@ -1,0 +1,7 @@
+export const MOBILE_BREAKPOINT = '600px'
+export const HEADER_HEIGHT = '36px'
+export const HEADER_HEIGHT_MOBILE = '50px'
+export const FOOTER_HEIGHT = '36px'
+export const EDITOR_MENU_HEIGHT = '36px'
+export const NOTE_LIST_MENU_HEIGHT = '80px'
+export const NOTE_LIST_WIDTH = '200px'
